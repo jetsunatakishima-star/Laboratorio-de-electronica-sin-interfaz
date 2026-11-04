@@ -1,5 +1,5 @@
 Explicación del sistema de inventario en consola (sin interfaz gráfica)
-2 nov 2026 · @shima
+
 1. Objetivo y resumen
 El sistema gestiona el inventario de un laboratorio de electrónica desde la terminal: el usuario elige opciones de un menú escribiendo números, y los datos quedan guardados en SQLite3.
 La versión de consola incluye:
